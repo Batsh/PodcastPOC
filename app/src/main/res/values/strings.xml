@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PodcastPOC</string>
+    <string name="notification_channel_name">Podcast Channel</string>
+    <string name="notification_channel_description">Shows the currently playing podcast</string>
+</resources>
